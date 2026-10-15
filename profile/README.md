@@ -3,8 +3,8 @@
 The data for environmental impact and risk reporting.
 
 We build and maintain **EXIOBASE**, the multi-regional input-output model for full
-supply-chain sustainability assessment, covering 200 products, 163 industries, 49
-regions and over 1,000 environmental stressors. From EXIOBASE we derive spend-based
+supply-chain sustainability assessment, covering GHG emissions, land use, water use
+and pressures related to biodiversity and human health. We produce spend-based
 emission factors (Scope 1, 2 and 3) and impact factors (water, land, ecosystem
 quality, human health) used in corporate carbon accounting, financed-emissions and
 nature-risk reporting.
